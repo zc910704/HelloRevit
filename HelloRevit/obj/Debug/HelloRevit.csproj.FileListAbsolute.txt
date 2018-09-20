@@ -1,0 +1,6 @@
+D:\work space\revit code\HelloRevit\HelloRevit\obj\Debug\HelloRevit.csprojAssemblyReference.cache
+D:\work space\revit code\HelloRevit\HelloRevit\obj\Debug\HelloRevit.csproj.CoreCompileInputs.cache
+D:\work space\revit code\HelloRevit\HelloRevit\bin\Debug\HelloRevit.dll
+D:\work space\revit code\HelloRevit\HelloRevit\bin\Debug\HelloRevit.pdb
+D:\work space\revit code\HelloRevit\HelloRevit\obj\Debug\HelloRevit.dll
+D:\work space\revit code\HelloRevit\HelloRevit\obj\Debug\HelloRevit.pdb
